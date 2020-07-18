@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/loser97/Desktop/markboot/build/url_launcher/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml",
+            "map": [
+                {
+                    "source": "/home/loser97/.gradle/caches/transforms-2/files-2.1/31ffd94dd4be5a0ccaa73c0d1aa53e0e/core-1.1.0/res/values-ky/values-ky.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/loser97/Desktop/markboot/build/url_launcher/intermediates/res/merged/debug/values-ky/values-ky.xml",
+            "map": [
+                {
+                    "source": "/home/loser97/.gradle/caches/transforms-2/files-2.1/31ffd94dd4be5a0ccaa73c0d1aa53e0e/core-1.1.0/res/values-ky/values-ky.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,556 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.app.markbootapp"
+4    android:versionCode="2"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="29" />
+10    <!--
+11         Flutter needs it to communicate with the running application
+12         to allow setting breakpoints, to provide hot reload, etc.
+13    -->
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:10:5-66
+14-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:10:22-64
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:11:5-79
+15-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:11:22-77
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:12:5-80
+16-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:12:22-78
+17    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+17-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:13:5-80
+17-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:13:22-78
+18    <uses-permission android:name="android.permission.VIBRATE" />
+18-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:14:5-66
+18-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:14:22-63
+19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+19-->[com.google.firebase:firebase-iid:20.0.2] /home/loser97/.gradle/caches/transforms-2/files-2.1/38ba2b5dff168c4a8c05e667354d048d/firebase-iid-20.0.2/AndroidManifest.xml:22:5-79
+19-->[com.google.firebase:firebase-iid:20.0.2] /home/loser97/.gradle/caches/transforms-2/files-2.1/38ba2b5dff168c4a8c05e667354d048d/firebase-iid-20.0.2/AndroidManifest.xml:22:22-76
+20    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+20-->[com.google.firebase:firebase-iid:20.0.2] /home/loser97/.gradle/caches/transforms-2/files-2.1/38ba2b5dff168c4a8c05e667354d048d/firebase-iid-20.0.2/AndroidManifest.xml:24:5-68
+20-->[com.google.firebase:firebase-iid:20.0.2] /home/loser97/.gradle/caches/transforms-2/files-2.1/38ba2b5dff168c4a8c05e667354d048d/firebase-iid-20.0.2/AndroidManifest.xml:24:22-65
+21    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+21-->[com.google.firebase:firebase-iid:20.0.2] /home/loser97/.gradle/caches/transforms-2/files-2.1/38ba2b5dff168c4a8c05e667354d048d/firebase-iid-20.0.2/AndroidManifest.xml:26:5-82
+21-->[com.google.firebase:firebase-iid:20.0.2] /home/loser97/.gradle/caches/transforms-2/files-2.1/38ba2b5dff168c4a8c05e667354d048d/firebase-iid-20.0.2/AndroidManifest.xml:26:22-79
+22    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+22-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:28:5-77
+22-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:28:22-74
+23
+24    <application
+24-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:16:5-77:19
+25        android:name="io.flutter.app.FlutterApplication"
+25-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:17:9-57
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.2.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/c9ab3b6ce96876b325d83698e1b97e88/core-1.2.0/AndroidManifest.xml:24:18-86
+27        android:debuggable="true"
+28        android:icon="@mipmap/ic_launcher"
+28-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:19:9-43
+29        android:label="MarkBoot" >
+29-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:18:9-33
+30        <activity
+30-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:20:9-53:20
+31            android:name="com.app.markbootapp.MainActivity"
+31-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:21:13-41
+32            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+32-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:24:13-163
+33            android:hardwareAccelerated="true"
+33-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:25:13-47
+34            android:launchMode="singleTop"
+34-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:22:13-43
+35            android:theme="@style/LaunchTheme"
+35-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:23:13-47
+36            android:windowSoftInputMode="adjustResize" >
+36-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:26:13-55
+37
+38            <!--
+39                 Specifies an Android theme to apply to this Activity as soon as
+40                 the Android process has started. This theme is visible to the user
+41                 while the Flutter UI initializes. After that, this theme continues
+42                 to determine the Window background behind the Flutter UI.
+43            -->
+44            <meta-data
+44-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:31:13-34:17
+45                android:name="io.flutter.embedding.android.NormalTheme"
+45-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:32:15-70
+46                android:resource="@style/NormalTheme" />
+46-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:33:15-52
+47            <!--
+48                 Displays an Android View that continues showing the launch screen
+49                 Drawable until Flutter paints its first frame, then this splash
+50                 screen fades out. A splash screen is useful to avoid any visual
+51                 gap between the end of Android's launch screen and the painting of
+52                 Flutter's first frame.
+53            -->
+54            <meta-data
+54-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:40:13-43:17
+55                android:name="io.flutter.embedding.android.SplashScreenDrawable"
+55-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:41:15-79
+56                android:resource="@drawable/launch_background" />
+56-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:42:15-61
+57
+58            <intent-filter>
+58-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:44:13-47:29
+59                <action android:name="android.intent.action.MAIN" />
+59-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:45:17-68
+59-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:45:25-66
+60
+61                <category android:name="android.intent.category.LAUNCHER" />
+61-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:46:17-76
+61-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:46:27-74
+62            </intent-filter>
+63            <intent-filter>
+63-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:48:13-51:29
+64                <action android:name="FLUTTER_NOTIFICATION_CLICK" />
+64-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:49:17-69
+64-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:49:25-66
+65
+66                <category android:name="android.intent.category.DEFAULT" />
+66-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:50:17-76
+66-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:50:27-73
+67            </intent-filter>
+68        </activity>
+69        <!--
+70             Don't delete the meta-data below.
+71             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+72        -->
+73        <meta-data
+73-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:56:9-58:33
+74            android:name="flutterEmbedding"
+74-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:57:13-44
+75            android:value="2" />
+75-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:58:13-30
+76
+77        <provider
+78            android:name="vn.hunghd.flutterdownloader.DownloadedFileProvider"
+79            android:authorities="com.app.markbootapp.flutter_downloader.provider"
+80            android:exported="false"
+81            android:grantUriPermissions="true" >
+82            <meta-data
+82-->[:image_picker] /home/loser97/Desktop/markboot/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-18:75
+83                android:name="android.support.FILE_PROVIDER_PATHS"
+83-->[:image_picker] /home/loser97/Desktop/markboot/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-67
+84                android:resource="@xml/provider_paths" />
+84-->[:image_picker] /home/loser97/Desktop/markboot/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-72
+85        </provider>
+86
+87        <receiver android:name="com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver" >
+87-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:70:9-75:20
+87-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:70:19-107
+88            <intent-filter>
+88-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:71:13-74:29
+89                <action android:name="android.intent.action.BOOT_COMPLETED" />
+89-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:72:17-78
+89-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:72:25-76
+90                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+90-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:73:17-83
+90-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:73:25-81
+91            </intent-filter>
+92        </receiver>
+93        <receiver android:name="com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver" />
+93-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:76:9-106
+93-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:76:19-103
+94
+95        <provider
+95-->[:image_picker] /home/loser97/Desktop/markboot/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-19:20
+96            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
+96-->[:image_picker] /home/loser97/Desktop/markboot/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-82
+97            android:authorities="com.app.markbootapp.flutter.image_provider"
+97-->[:image_picker] /home/loser97/Desktop/markboot/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-74
+98            android:exported="false"
+98-->[:image_picker] /home/loser97/Desktop/markboot/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-37
+99            android:grantUriPermissions="true" >
+99-->[:image_picker] /home/loser97/Desktop/markboot/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-47
+100            <meta-data
+100-->[:image_picker] /home/loser97/Desktop/markboot/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-18:75
+101                android:name="android.support.FILE_PROVIDER_PATHS"
+101-->[:image_picker] /home/loser97/Desktop/markboot/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-67
+102                android:resource="@xml/flutter_image_picker_file_paths" />
+102-->[:image_picker] /home/loser97/Desktop/markboot/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-72
+103        </provider>
+104
+105        <service
+105-->[:cloud_firestore] /home/loser97/Desktop/markboot/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+106            android:name="com.google.firebase.components.ComponentDiscoveryService"
+106-->[:cloud_firestore] /home/loser97/Desktop/markboot/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
+107            android:directBootAware="true"
+107-->[com.google.firebase:firebase-common:19.3.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/9238bdaeeba4d987036bd3c76c923f7e/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+108            android:exported="false" >
+108-->[com.google.firebase:firebase-messaging:20.1.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/4fe2b64c725c19eac4f99459e216a1a0/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:37:13-37
+109            <meta-data
+109-->[:cloud_firestore] /home/loser97/Desktop/markboot/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+110                android:name="com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar"
+110-->[:cloud_firestore] /home/loser97/Desktop/markboot/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-133
+111                android:value="com.google.firebase.components.ComponentRegistrar" />
+111-->[:cloud_firestore] /home/loser97/Desktop/markboot/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+112            <meta-data
+112-->[:firebase_auth] /home/loser97/Desktop/markboot/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+113                android:name="com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar"
+113-->[:firebase_auth] /home/loser97/Desktop/markboot/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-122
+114                android:value="com.google.firebase.components.ComponentRegistrar" />
+114-->[:firebase_auth] /home/loser97/Desktop/markboot/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+115            <meta-data
+115-->[:firebase_storage] /home/loser97/Desktop/markboot/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+116                android:name="com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar"
+116-->[:firebase_storage] /home/loser97/Desktop/markboot/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-126
+117                android:value="com.google.firebase.components.ComponentRegistrar" />
+117-->[:firebase_storage] /home/loser97/Desktop/markboot/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+118            <meta-data
+118-->[:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-16:85
+119                android:name="com.google.firebase.components:io.flutter.plugins.firebasemessaging.FlutterFirebaseAppRegistrar"
+119-->[:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:15:17-127
+120                android:value="com.google.firebase.components.ComponentRegistrar" />
+120-->[:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-82
+121            <meta-data
+121-->[:firebase_core] /home/loser97/Desktop/markboot/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+122                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar"
+122-->[:firebase_core] /home/loser97/Desktop/markboot/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-123
+123                android:value="com.google.firebase.components.ComponentRegistrar" />
+123-->[:firebase_core] /home/loser97/Desktop/markboot/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+124            <meta-data
+124-->[com.google.firebase:firebase-messaging:20.1.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/4fe2b64c725c19eac4f99459e216a1a0/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:38:13-40:85
+125                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+125-->[com.google.firebase:firebase-messaging:20.1.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/4fe2b64c725c19eac4f99459e216a1a0/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:39:17-119
+126                android:value="com.google.firebase.components.ComponentRegistrar" />
+126-->[com.google.firebase:firebase-messaging:20.1.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/4fe2b64c725c19eac4f99459e216a1a0/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:40:17-82
+127            <meta-data
+127-->[com.google.firebase:firebase-datatransport:17.0.3] /home/loser97/.gradle/caches/transforms-2/files-2.1/7319106a5df3da986fa31e366493f340/firebase-datatransport-17.0.3/AndroidManifest.xml:28:13-30:85
+128                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+128-->[com.google.firebase:firebase-datatransport:17.0.3] /home/loser97/.gradle/caches/transforms-2/files-2.1/7319106a5df3da986fa31e366493f340/firebase-datatransport-17.0.3/AndroidManifest.xml:29:17-115
+129                android:value="com.google.firebase.components.ComponentRegistrar" />
+129-->[com.google.firebase:firebase-datatransport:17.0.3] /home/loser97/.gradle/caches/transforms-2/files-2.1/7319106a5df3da986fa31e366493f340/firebase-datatransport-17.0.3/AndroidManifest.xml:30:17-82
+130            <meta-data
+130-->[com.google.firebase:firebase-iid:20.0.2] /home/loser97/.gradle/caches/transforms-2/files-2.1/38ba2b5dff168c4a8c05e667354d048d/firebase-iid-20.0.2/AndroidManifest.xml:32:13-34:85
+131                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+131-->[com.google.firebase:firebase-iid:20.0.2] /home/loser97/.gradle/caches/transforms-2/files-2.1/38ba2b5dff168c4a8c05e667354d048d/firebase-iid-20.0.2/AndroidManifest.xml:33:17-96
+132                android:value="com.google.firebase.components.ComponentRegistrar" />
+132-->[com.google.firebase:firebase-iid:20.0.2] /home/loser97/.gradle/caches/transforms-2/files-2.1/38ba2b5dff168c4a8c05e667354d048d/firebase-iid-20.0.2/AndroidManifest.xml:34:17-82
+133            <meta-data
+133-->[com.google.firebase:firebase-firestore:21.3.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/ff01d35d1f4900b0fc68ffe170b89686/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:20:13-22:85
+134                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+134-->[com.google.firebase:firebase-firestore:21.3.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/ff01d35d1f4900b0fc68ffe170b89686/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:21:17-111
+135                android:value="com.google.firebase.components.ComponentRegistrar" />
+135-->[com.google.firebase:firebase-firestore:21.3.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/ff01d35d1f4900b0fc68ffe170b89686/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:22:17-82
+136            <meta-data
+136-->[com.google.firebase:firebase-auth:19.2.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/c24d9b9f0add35f8ecd01a6acf8eb97a/firebase-auth-19.2.0/AndroidManifest.xml:36:13-38:85
+137                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+137-->[com.google.firebase:firebase-auth:19.2.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/c24d9b9f0add35f8ecd01a6acf8eb97a/firebase-auth-19.2.0/AndroidManifest.xml:37:17-109
+138                android:value="com.google.firebase.components.ComponentRegistrar" />
+138-->[com.google.firebase:firebase-auth:19.2.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/c24d9b9f0add35f8ecd01a6acf8eb97a/firebase-auth-19.2.0/AndroidManifest.xml:38:17-82
+139            <meta-data
+139-->[com.google.firebase:firebase-storage:17.0.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/be37adfda120d646235f4a4679a76e4a/jetified-firebase-storage-17.0.0/AndroidManifest.xml:31:13-33:85
+140                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+140-->[com.google.firebase:firebase-storage:17.0.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/be37adfda120d646235f4a4679a76e4a/jetified-firebase-storage-17.0.0/AndroidManifest.xml:32:17-107
+141                android:value="com.google.firebase.components.ComponentRegistrar" />
+141-->[com.google.firebase:firebase-storage:17.0.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/be37adfda120d646235f4a4679a76e4a/jetified-firebase-storage-17.0.0/AndroidManifest.xml:33:17-82
+142        </service>
+143        <service android:name="io.flutter.plugins.firebasemessaging.FlutterFirebaseMessagingService" >
+143-->[:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+143-->[:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-101
+144            <intent-filter>
+144-->[:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:29
+145                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+145-->[:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-78
+145-->[:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:10:25-75
+146            </intent-filter>
+147        </service>
+148
+149        <activity
+149-->[:url_launcher] /home/loser97/Desktop/markboot/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
+150            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+150-->[:url_launcher] /home/loser97/Desktop/markboot/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
+151            android:exported="false"
+151-->[:url_launcher] /home/loser97/Desktop/markboot/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
+152            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+152-->[:url_launcher] /home/loser97/Desktop/markboot/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
+153        <!--
+154             FirebaseMessagingService performs security checks at runtime,
+155             but set to not exported to explicitly avoid allowing another app to call it.
+156        -->
+157        <service
+157-->[com.google.firebase:firebase-messaging:20.1.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/4fe2b64c725c19eac4f99459e216a1a0/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:28:9-34:19
+158            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+158-->[com.google.firebase:firebase-messaging:20.1.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/4fe2b64c725c19eac4f99459e216a1a0/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:29:13-82
+159            android:exported="false" >
+159-->[com.google.firebase:firebase-messaging:20.1.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/4fe2b64c725c19eac4f99459e216a1a0/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:30:13-37
+160            <intent-filter android:priority="-500" >
+160-->[:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:29
+161                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+161-->[:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-78
+161-->[:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:10:25-75
+162            </intent-filter>
+163        </service>
+164
+165        <receiver
+165-->[com.google.firebase:firebase-iid:20.0.2] /home/loser97/.gradle/caches/transforms-2/files-2.1/38ba2b5dff168c4a8c05e667354d048d/firebase-iid-20.0.2/AndroidManifest.xml:37:9-44:20
+166            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+166-->[com.google.firebase:firebase-iid:20.0.2] /home/loser97/.gradle/caches/transforms-2/files-2.1/38ba2b5dff168c4a8c05e667354d048d/firebase-iid-20.0.2/AndroidManifest.xml:38:13-78
+167            android:exported="true"
+167-->[com.google.firebase:firebase-iid:20.0.2] /home/loser97/.gradle/caches/transforms-2/files-2.1/38ba2b5dff168c4a8c05e667354d048d/firebase-iid-20.0.2/AndroidManifest.xml:39:13-36
+168            android:permission="com.google.android.c2dm.permission.SEND" >
+168-->[com.google.firebase:firebase-iid:20.0.2] /home/loser97/.gradle/caches/transforms-2/files-2.1/38ba2b5dff168c4a8c05e667354d048d/firebase-iid-20.0.2/AndroidManifest.xml:40:13-73
+169            <intent-filter>
+169-->[com.google.firebase:firebase-iid:20.0.2] /home/loser97/.gradle/caches/transforms-2/files-2.1/38ba2b5dff168c4a8c05e667354d048d/firebase-iid-20.0.2/AndroidManifest.xml:41:13-43:29
+170                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+170-->[com.google.firebase:firebase-iid:20.0.2] /home/loser97/.gradle/caches/transforms-2/files-2.1/38ba2b5dff168c4a8c05e667354d048d/firebase-iid-20.0.2/AndroidManifest.xml:42:17-81
+170-->[com.google.firebase:firebase-iid:20.0.2] /home/loser97/.gradle/caches/transforms-2/files-2.1/38ba2b5dff168c4a8c05e667354d048d/firebase-iid-20.0.2/AndroidManifest.xml:42:25-78
+171            </intent-filter>
+172        </receiver>
+173
+174        <activity
+174-->[com.google.firebase:firebase-auth:19.2.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/c24d9b9f0add35f8ecd01a6acf8eb97a/firebase-auth-19.2.0/AndroidManifest.xml:24:9-31:50
+175            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+175-->[com.google.firebase:firebase-auth:19.2.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/c24d9b9f0add35f8ecd01a6acf8eb97a/firebase-auth-19.2.0/AndroidManifest.xml:25:13-85
+176            android:excludeFromRecents="true"
+176-->[com.google.firebase:firebase-auth:19.2.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/c24d9b9f0add35f8ecd01a6acf8eb97a/firebase-auth-19.2.0/AndroidManifest.xml:26:13-46
+177            android:exported="true"
+177-->[com.google.firebase:firebase-auth:19.2.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/c24d9b9f0add35f8ecd01a6acf8eb97a/firebase-auth-19.2.0/AndroidManifest.xml:27:13-36
+178            android:launchMode="singleTask"
+178-->[com.google.firebase:firebase-auth:19.2.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/c24d9b9f0add35f8ecd01a6acf8eb97a/firebase-auth-19.2.0/AndroidManifest.xml:28:13-44
+179            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+179-->[com.google.firebase:firebase-auth:19.2.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/c24d9b9f0add35f8ecd01a6acf8eb97a/firebase-auth-19.2.0/AndroidManifest.xml:29:13-102
+180            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+180-->[com.google.firebase:firebase-auth:19.2.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/c24d9b9f0add35f8ecd01a6acf8eb97a/firebase-auth-19.2.0/AndroidManifest.xml:30:13-72
+181
+182        <provider
+182-->[com.google.firebase:firebase-common:19.3.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/9238bdaeeba4d987036bd3c76c923f7e/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+183            android:name="com.google.firebase.provider.FirebaseInitProvider"
+183-->[com.google.firebase:firebase-common:19.3.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/9238bdaeeba4d987036bd3c76c923f7e/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+184            android:authorities="com.app.markbootapp.firebaseinitprovider"
+184-->[com.google.firebase:firebase-common:19.3.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/9238bdaeeba4d987036bd3c76c923f7e/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+185            android:exported="false"
+185-->[com.google.firebase:firebase-common:19.3.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/9238bdaeeba4d987036bd3c76c923f7e/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+186            android:initOrder="100" />
+186-->[com.google.firebase:firebase-common:19.3.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/9238bdaeeba4d987036bd3c76c923f7e/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
+187
+188        <activity
+188-->[com.google.android.gms:play-services-base:17.1.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/acdc368d396eeebbf47285582a05491e/play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+189            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+189-->[com.google.android.gms:play-services-base:17.1.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/acdc368d396eeebbf47285582a05491e/play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+190            android:exported="false"
+190-->[com.google.android.gms:play-services-base:17.1.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/acdc368d396eeebbf47285582a05491e/play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+191            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+191-->[com.google.android.gms:play-services-base:17.1.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/acdc368d396eeebbf47285582a05491e/play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+192
+193        <meta-data
+193-->[com.google.android.gms:play-services-basement:17.0.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/f7a2d6fb78cce50761311864f8096db9/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+194            android:name="com.google.android.gms.version"
+194-->[com.google.android.gms:play-services-basement:17.0.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/f7a2d6fb78cce50761311864f8096db9/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+195            android:value="@integer/google_play_services_version" />
+195-->[com.google.android.gms:play-services-basement:17.0.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/f7a2d6fb78cce50761311864f8096db9/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+196
+197        <provider
+197-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:31:9-37:35
+198            android:name="androidx.work.impl.WorkManagerInitializer"
+198-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:32:13-69
+199            android:authorities="com.app.markbootapp.workmanager-init"
+199-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:33:13-68
+200            android:directBootAware="false"
+200-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:34:13-44
+201            android:exported="false"
+201-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:35:13-37
+202            android:multiprocess="true" />
+202-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:36:13-40
+203
+204        <service
+204-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:39:9-44:35
+205            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
+205-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:40:13-88
+206            android:directBootAware="false"
+206-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:41:13-44
+207            android:enabled="@bool/enable_system_alarm_service_default"
+207-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:42:13-72
+208            android:exported="false" />
+208-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:43:13-37
+209        <service
+209-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:45:9-51:35
+210            android:name="androidx.work.impl.background.systemjob.SystemJobService"
+210-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:46:13-84
+211            android:directBootAware="false"
+211-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:47:13-44
+212            android:enabled="@bool/enable_system_job_service_default"
+212-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:48:13-70
+213            android:exported="true"
+213-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:49:13-36
+214            android:permission="android.permission.BIND_JOB_SERVICE" />
+214-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:50:13-69
+215        <service
+215-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:52:9-57:35
+216            android:name="androidx.work.impl.foreground.SystemForegroundService"
+216-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:53:13-81
+217            android:directBootAware="false"
+217-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:54:13-44
+218            android:enabled="@bool/enable_system_foreground_service_default"
+218-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:55:13-77
+219            android:exported="false" />
+219-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:56:13-37
+220
+221        <receiver
+221-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:59:9-64:35
+222            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
+222-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:60:13-88
+223            android:directBootAware="false"
+223-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:61:13-44
+224            android:enabled="true"
+224-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:62:13-35
+225            android:exported="false" />
+225-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:63:13-37
+226        <receiver
+226-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:65:9-75:20
+227            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
+227-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:66:13-106
+228            android:directBootAware="false"
+228-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:67:13-44
+229            android:enabled="false"
+229-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:68:13-36
+230            android:exported="false" >
+230-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:69:13-37
+231            <intent-filter>
+231-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:71:13-74:29
+232                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+232-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:72:17-87
+232-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:72:25-84
+233                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+233-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:73:17-90
+233-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:73:25-87
+234            </intent-filter>
+235        </receiver>
+236        <receiver
+236-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:76:9-86:20
+237            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
+237-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:77:13-104
+238            android:directBootAware="false"
+238-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:78:13-44
+239            android:enabled="false"
+239-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:79:13-36
+240            android:exported="false" >
+240-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:80:13-37
+241            <intent-filter>
+241-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:82:13-85:29
+242                <action android:name="android.intent.action.BATTERY_OKAY" />
+242-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:83:17-77
+242-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:83:25-74
+243                <action android:name="android.intent.action.BATTERY_LOW" />
+243-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:84:17-76
+243-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:84:25-73
+244            </intent-filter>
+245        </receiver>
+246        <receiver
+246-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:87:9-97:20
+247            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
+247-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:88:13-104
+248            android:directBootAware="false"
+248-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:89:13-44
+249            android:enabled="false"
+249-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:90:13-36
+250            android:exported="false" >
+250-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:91:13-37
+251            <intent-filter>
+251-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:93:13-96:29
+252                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
+252-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:94:17-83
+252-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:94:25-80
+253                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
+253-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:95:17-82
+253-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:95:25-79
+254            </intent-filter>
+255        </receiver>
+256        <receiver
+256-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:98:9-107:20
+257            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
+257-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:99:13-103
+258            android:directBootAware="false"
+258-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:100:13-44
+259            android:enabled="false"
+259-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:101:13-36
+260            android:exported="false" >
+260-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:102:13-37
+261            <intent-filter>
+261-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:104:13-106:29
+262                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+262-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:105:17-79
+262-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:105:25-76
+263            </intent-filter>
+264        </receiver>
+265        <receiver
+265-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:108:9-119:20
+266            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
+266-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:109:13-88
+267            android:directBootAware="false"
+267-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:110:13-44
+268            android:enabled="false"
+268-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:111:13-36
+269            android:exported="false" >
+269-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:112:13-37
+270            <intent-filter>
+270-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:114:13-118:29
+271                <action android:name="android.intent.action.BOOT_COMPLETED" />
+271-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:72:17-78
+271-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:72:25-76
+272                <action android:name="android.intent.action.TIME_SET" />
+272-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:116:17-73
+272-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:116:25-70
+273                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+273-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:117:17-81
+273-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:117:25-78
+274            </intent-filter>
+275        </receiver>
+276        <receiver
+276-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:120:9-129:20
+277            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
+277-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:121:13-99
+278            android:directBootAware="false"
+278-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:122:13-44
+279            android:enabled="@bool/enable_system_alarm_service_default"
+279-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:123:13-72
+280            android:exported="false" >
+280-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:124:13-37
+281            <intent-filter>
+281-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:126:13-128:29
+282                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
+282-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:127:17-98
+282-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:127:25-95
+283            </intent-filter>
+284        </receiver>
+285
+286        <service
+286-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/3ba8d39a44a73c41c2b385e061a942bc/transport-backend-cct-2.2.0/AndroidManifest.xml:29:9-35:19
+287            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+287-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/3ba8d39a44a73c41c2b385e061a942bc/transport-backend-cct-2.2.0/AndroidManifest.xml:30:13-103
+288            android:exported="false" >
+288-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/3ba8d39a44a73c41c2b385e061a942bc/transport-backend-cct-2.2.0/AndroidManifest.xml:31:13-37
+289            <meta-data
+289-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/3ba8d39a44a73c41c2b385e061a942bc/transport-backend-cct-2.2.0/AndroidManifest.xml:32:13-34:39
+290                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+290-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/3ba8d39a44a73c41c2b385e061a942bc/transport-backend-cct-2.2.0/AndroidManifest.xml:33:17-94
+291                android:value="cct" />
+291-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/3ba8d39a44a73c41c2b385e061a942bc/transport-backend-cct-2.2.0/AndroidManifest.xml:34:17-36
+292        </service>
+293        <service
+293-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/699e1c633894f349ace6d10993e9ee0e/transport-runtime-2.2.0/AndroidManifest.xml:26:9-30:19
+294            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+294-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/699e1c633894f349ace6d10993e9ee0e/transport-runtime-2.2.0/AndroidManifest.xml:27:13-117
+295            android:exported="false"
+295-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/699e1c633894f349ace6d10993e9ee0e/transport-runtime-2.2.0/AndroidManifest.xml:28:13-37
+296            android:permission="android.permission.BIND_JOB_SERVICE" >
+296-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/699e1c633894f349ace6d10993e9ee0e/transport-runtime-2.2.0/AndroidManifest.xml:29:13-69
+297        </service>
+298
+299        <receiver
+299-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/699e1c633894f349ace6d10993e9ee0e/transport-runtime-2.2.0/AndroidManifest.xml:32:9-34:40
+300            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+300-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/699e1c633894f349ace6d10993e9ee0e/transport-runtime-2.2.0/AndroidManifest.xml:33:13-132
+301            android:exported="false" />
+301-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/699e1c633894f349ace6d10993e9ee0e/transport-runtime-2.2.0/AndroidManifest.xml:34:13-37
+302
+303        <service
+303-->[androidx.room:room-runtime:2.2.3] /home/loser97/.gradle/caches/transforms-2/files-2.1/8db61045985259fe3397ee7fe7848c9f/room-runtime-2.2.3/AndroidManifest.xml:25:9-27:40
+304            android:name="androidx.room.MultiInstanceInvalidationService"
+304-->[androidx.room:room-runtime:2.2.3] /home/loser97/.gradle/caches/transforms-2/files-2.1/8db61045985259fe3397ee7fe7848c9f/room-runtime-2.2.3/AndroidManifest.xml:26:13-74
+305            android:exported="false" />
+305-->[androidx.room:room-runtime:2.2.3] /home/loser97/.gradle/caches/transforms-2/files-2.1/8db61045985259fe3397ee7fe7848c9f/room-runtime-2.2.3/AndroidManifest.xml:27:13-37
+306    </application>
+307
+308</manifest>

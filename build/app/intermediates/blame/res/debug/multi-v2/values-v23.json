@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/loser97/Desktop/markboot/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                }
+            ]
+        }
+    ]
+}

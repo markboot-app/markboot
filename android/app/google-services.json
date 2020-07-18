@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "191731778517",
+    "firebase_url": "https://markick-app.firebaseio.com",
+    "project_id": "markick-app",
+    "storage_bucket": "markick-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191731778517:android:3b991ac8c28ac7b4c1f35c",
+        "android_client_info": {
+          "package_name": "com.app.markbootapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191731778517-ck3se142h1jfbinmk4di97fh4mppgi0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.markbootapp",
+            "certificate_hash": "db0bee433943fc180904b5c9b790d7298032c3d5"
+          }
+        },
+        {
+          "client_id": "191731778517-6ba26t3f9ckf779ug4g9n4tf2pf8654s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiDBSc4suyWB3yyiUUR6gd6B019SYk-5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191731778517-6ba26t3f9ckf779ug4g9n4tf2pf8654s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191731778517:android:cb73a907a320ad81c1f35c",
+        "android_client_info": {
+          "package_name": "com.app.markbootwebapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191731778517-p24rm7m61hcq6i6mhki3a3bi5gkm87j2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.markbootwebapp",
+            "certificate_hash": "db0bee433943fc180904b5c9b790d7298032c3d5"
+          }
+        },
+        {
+          "client_id": "191731778517-6ba26t3f9ckf779ug4g9n4tf2pf8654s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiDBSc4suyWB3yyiUUR6gd6B019SYk-5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191731778517-6ba26t3f9ckf779ug4g9n4tf2pf8654s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191731778517:android:89e3d076414c3214c1f35c",
+        "android_client_info": {
+          "package_name": "com.app.markick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191731778517-odp3bc8v4una465uoloqp3ih95qqvu5k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.markick",
+            "certificate_hash": "db0bee433943fc180904b5c9b790d7298032c3d5"
+          }
+        },
+        {
+          "client_id": "191731778517-6ba26t3f9ckf779ug4g9n4tf2pf8654s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiDBSc4suyWB3yyiUUR6gd6B019SYk-5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191731778517-6ba26t3f9ckf779ug4g9n4tf2pf8654s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
