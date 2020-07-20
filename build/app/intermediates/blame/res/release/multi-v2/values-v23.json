@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/loser97/Desktop/markboot/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "/home/loser97/Desktop/markboot-git/markboot/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
                     "source": "/home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/res/values-v23/values-v23.xml",

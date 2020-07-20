@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/loser97/Desktop/markboot/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-in/values-in.xml",
+            "outputFile": "/home/loser97/Desktop/markboot-git/markboot/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-in/values-in.xml",
             "map": [
                 {
                     "source": "/home/loser97/.gradle/caches/transforms-2/files-2.1/4fe2b64c725c19eac4f99459e216a1a0/jetified-firebase-messaging-20.1.0/res/values-in/values.xml",

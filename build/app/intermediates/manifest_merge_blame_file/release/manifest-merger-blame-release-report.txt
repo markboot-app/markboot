@@ -1,14 +1,14 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="com.app.markbootapp"
-4    android:versionCode="2"
+4    android:versionCode="6"
 5    android:versionName="1.0" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml
+8-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml
+9-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml
 10    <!--
 11         io.flutter.app.FlutterApplication is an android.app.Application that
 12         calls FlutterMain.startInitialization(this); in its onCreate method.
@@ -18,20 +18,20 @@
 16    -->
 17
 18    <uses-permission android:name="android.permission.INTERNET" />
-18-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:10:5-66
-18-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:10:22-64
+18-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:10:5-66
+18-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:10:22-64
 19    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-19-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:11:5-79
-19-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:11:22-77
+19-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:11:5-79
+19-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:11:22-77
 20    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-20-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:12:5-80
-20-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:12:22-78
+20-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:12:5-80
+20-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:12:22-78
 21    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-21-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:13:5-80
-21-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:13:22-78
+21-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:13:5-80
+21-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:13:22-78
 22    <uses-permission android:name="android.permission.VIBRATE" />
-22-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:14:5-66
-22-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:14:22-63
+22-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:14:5-66
+22-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:14:22-63
 23    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 23-->[com.google.firebase:firebase-iid:20.0.2] /home/loser97/.gradle/caches/transforms-2/files-2.1/38ba2b5dff168c4a8c05e667354d048d/firebase-iid-20.0.2/AndroidManifest.xml:22:5-79
 23-->[com.google.firebase:firebase-iid:20.0.2] /home/loser97/.gradle/caches/transforms-2/files-2.1/38ba2b5dff168c4a8c05e667354d048d/firebase-iid-20.0.2/AndroidManifest.xml:22:22-76
@@ -46,29 +46,29 @@
 26-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:28:22-74
 27
 28    <application
-28-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:16:5-77:19
+28-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:16:5-77:19
 29        android:name="io.flutter.app.FlutterApplication"
-29-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:17:9-57
+29-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:17:9-57
 30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 30-->[androidx.core:core:1.2.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/c9ab3b6ce96876b325d83698e1b97e88/core-1.2.0/AndroidManifest.xml:24:18-86
 31        android:icon="@mipmap/ic_launcher"
-31-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:19:9-43
+31-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:19:9-43
 32        android:label="MarkBoot" >
-32-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:18:9-33
+32-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:18:9-33
 33        <activity
-33-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:20:9-53:20
+33-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:20:9-53:20
 34            android:name="com.app.markbootapp.MainActivity"
-34-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:21:13-41
+34-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:21:13-41
 35            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-35-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:24:13-163
+35-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:24:13-163
 36            android:hardwareAccelerated="true"
-36-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:25:13-47
+36-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:25:13-47
 37            android:launchMode="singleTop"
-37-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:22:13-43
+37-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:22:13-43
 38            android:theme="@style/LaunchTheme"
-38-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:23:13-47
+38-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:23:13-47
 39            android:windowSoftInputMode="adjustResize" >
-39-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:26:13-55
+39-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:26:13-55
 40
 41            <!--
 42                 Specifies an Android theme to apply to this Activity as soon as
@@ -77,11 +77,11 @@
 45                 to determine the Window background behind the Flutter UI.
 46            -->
 47            <meta-data
-47-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:31:13-34:17
+47-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:31:13-34:17
 48                android:name="io.flutter.embedding.android.NormalTheme"
-48-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:32:15-70
+48-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:32:15-70
 49                android:resource="@style/NormalTheme" />
-49-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:33:15-52
+49-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:33:15-52
 50            <!--
 51                 Displays an Android View that continues showing the launch screen
 52                 Drawable until Flutter paints its first frame, then this splash
@@ -90,31 +90,31 @@
 55                 Flutter's first frame.
 56            -->
 57            <meta-data
-57-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:40:13-43:17
+57-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:40:13-43:17
 58                android:name="io.flutter.embedding.android.SplashScreenDrawable"
-58-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:41:15-79
+58-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:41:15-79
 59                android:resource="@drawable/launch_background" />
-59-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:42:15-61
+59-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:42:15-61
 60
 61            <intent-filter>
-61-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:44:13-47:29
+61-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:44:13-47:29
 62                <action android:name="android.intent.action.MAIN" />
-62-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:45:17-68
-62-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:45:25-66
+62-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:45:17-68
+62-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:45:25-66
 63
 64                <category android:name="android.intent.category.LAUNCHER" />
-64-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:46:17-76
-64-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:46:27-74
+64-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:46:17-76
+64-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:46:27-74
 65            </intent-filter>
 66            <intent-filter>
-66-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:48:13-51:29
+66-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:48:13-51:29
 67                <action android:name="FLUTTER_NOTIFICATION_CLICK" />
-67-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:49:17-69
-67-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:49:25-66
+67-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:49:17-69
+67-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:49:25-66
 68
 69                <category android:name="android.intent.category.DEFAULT" />
-69-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:50:17-76
-69-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:50:27-73
+69-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:50:17-76
+69-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:50:27-73
 70            </intent-filter>
 71        </activity>
 72        <!--
@@ -122,70 +122,70 @@
 74             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 75        -->
 76        <meta-data
-76-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:56:9-58:33
+76-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:56:9-58:33
 77            android:name="flutterEmbedding"
-77-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:57:13-44
+77-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:57:13-44
 78            android:value="2" />
-78-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:58:13-30
+78-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:58:13-30
 79
 80        <provider
 81            android:name="vn.hunghd.flutterdownloader.DownloadedFileProvider"
-81-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:61:13-78
+81-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:61:13-78
 82            android:authorities="com.app.markbootapp.flutter_downloader.provider"
-82-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:62:13-79
+82-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:62:13-79
 83            android:exported="false"
-83-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:63:13-37
+83-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:63:13-37
 84            android:grantUriPermissions="true" >
-84-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:64:13-47
+84-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:64:13-47
 85            <meta-data
-85-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:65:13-67:57
+85-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:65:13-67:57
 86                android:name="android.support.FILE_PROVIDER_PATHS"
-86-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:66:17-67
+86-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:66:17-67
 87                android:resource="@xml/provider_paths" />
-87-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:67:17-55
+87-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:67:17-55
 88        </provider>
 89
 90        <receiver android:name="com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver" >
-90-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:70:9-75:20
-90-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:70:19-107
+90-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:70:9-75:20
+90-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:70:19-107
 91            <intent-filter>
-91-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:71:13-74:29
+91-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:71:13-74:29
 92                <action android:name="android.intent.action.BOOT_COMPLETED" />
-92-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:72:17-78
-92-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:72:25-76
+92-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:72:17-78
+92-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:72:25-76
 93                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
-93-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:73:17-83
-93-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:73:25-81
+93-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:73:17-83
+93-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:73:25-81
 94            </intent-filter>
 95        </receiver>
 96        <receiver android:name="com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver" />
-96-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:76:9-106
-96-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:76:19-103
+96-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:76:9-106
+96-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:76:19-103
 97
 98        <service android:name="io.flutter.plugins.firebasemessaging.FlutterFirebaseMessagingService" >
-98-->[:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
-98-->[:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:8:18-101
+98-->[:firebase_messaging] /home/loser97/Desktop/markboot-git/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
+98-->[:firebase_messaging] /home/loser97/Desktop/markboot-git/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:8:18-101
 99            <intent-filter>
-99-->[:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:29
+99-->[:firebase_messaging] /home/loser97/Desktop/markboot-git/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:29
 100                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-100-->[:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:10:17-78
-100-->[:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:10:25-75
+100-->[:firebase_messaging] /home/loser97/Desktop/markboot-git/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:10:17-78
+100-->[:firebase_messaging] /home/loser97/Desktop/markboot-git/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:10:25-75
 101            </intent-filter>
 102        </service>
 103        <service
-103-->[:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:13:9-17:19
+103-->[:firebase_messaging] /home/loser97/Desktop/markboot-git/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:13:9-17:19
 104            android:name="com.google.firebase.components.ComponentDiscoveryService"
-104-->[:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:13:18-89
+104-->[:firebase_messaging] /home/loser97/Desktop/markboot-git/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:13:18-89
 105            android:directBootAware="true"
 105-->[com.google.firebase:firebase-common:19.3.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/9238bdaeeba4d987036bd3c76c923f7e/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
 106            android:exported="false" >
 106-->[com.google.firebase:firebase-messaging:20.1.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/4fe2b64c725c19eac4f99459e216a1a0/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:37:13-37
 107            <meta-data
-107-->[:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:14:13-16:85
+107-->[:firebase_messaging] /home/loser97/Desktop/markboot-git/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:14:13-16:85
 108                android:name="com.google.firebase.components:io.flutter.plugins.firebasemessaging.FlutterFirebaseAppRegistrar"
-108-->[:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:15:17-127
+108-->[:firebase_messaging] /home/loser97/Desktop/markboot-git/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:15:17-127
 109                android:value="com.google.firebase.components.ComponentRegistrar" />
-109-->[:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:16:17-82
+109-->[:firebase_messaging] /home/loser97/Desktop/markboot-git/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:16:17-82
 110            <meta-data
 110-->[com.google.firebase:firebase-messaging:20.1.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/4fe2b64c725c19eac4f99459e216a1a0/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:38:13-40:85
 111                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
@@ -193,29 +193,29 @@
 112                android:value="com.google.firebase.components.ComponentRegistrar" />
 112-->[com.google.firebase:firebase-messaging:20.1.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/4fe2b64c725c19eac4f99459e216a1a0/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:40:17-82
 113            <meta-data
-113-->[:cloud_firestore] /home/loser97/Desktop/markboot/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:85
+113-->[:cloud_firestore] /home/loser97/Desktop/markboot-git/markboot/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:85
 114                android:name="com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar"
-114-->[:cloud_firestore] /home/loser97/Desktop/markboot/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:10:17-133
+114-->[:cloud_firestore] /home/loser97/Desktop/markboot-git/markboot/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:10:17-133
 115                android:value="com.google.firebase.components.ComponentRegistrar" />
-115-->[:cloud_firestore] /home/loser97/Desktop/markboot/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:11:17-82
+115-->[:cloud_firestore] /home/loser97/Desktop/markboot-git/markboot/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:11:17-82
 116            <meta-data
-116-->[:firebase_auth] /home/loser97/Desktop/markboot/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:85
+116-->[:firebase_auth] /home/loser97/Desktop/markboot-git/markboot/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:85
 117                android:name="com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar"
-117-->[:firebase_auth] /home/loser97/Desktop/markboot/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:10:17-122
+117-->[:firebase_auth] /home/loser97/Desktop/markboot-git/markboot/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:10:17-122
 118                android:value="com.google.firebase.components.ComponentRegistrar" />
-118-->[:firebase_auth] /home/loser97/Desktop/markboot/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:11:17-82
+118-->[:firebase_auth] /home/loser97/Desktop/markboot-git/markboot/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:11:17-82
 119            <meta-data
-119-->[:firebase_storage] /home/loser97/Desktop/markboot/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:85
+119-->[:firebase_storage] /home/loser97/Desktop/markboot-git/markboot/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:85
 120                android:name="com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar"
-120-->[:firebase_storage] /home/loser97/Desktop/markboot/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:10:17-126
+120-->[:firebase_storage] /home/loser97/Desktop/markboot-git/markboot/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:10:17-126
 121                android:value="com.google.firebase.components.ComponentRegistrar" />
-121-->[:firebase_storage] /home/loser97/Desktop/markboot/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:11:17-82
+121-->[:firebase_storage] /home/loser97/Desktop/markboot-git/markboot/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:11:17-82
 122            <meta-data
-122-->[:firebase_core] /home/loser97/Desktop/markboot/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:85
+122-->[:firebase_core] /home/loser97/Desktop/markboot-git/markboot/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:85
 123                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar"
-123-->[:firebase_core] /home/loser97/Desktop/markboot/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:10:17-123
+123-->[:firebase_core] /home/loser97/Desktop/markboot-git/markboot/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:10:17-123
 124                android:value="com.google.firebase.components.ComponentRegistrar" />
-124-->[:firebase_core] /home/loser97/Desktop/markboot/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:11:17-82
+124-->[:firebase_core] /home/loser97/Desktop/markboot-git/markboot/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:11:17-82
 125            <meta-data
 125-->[com.google.firebase:firebase-datatransport:17.0.3] /home/loser97/.gradle/caches/transforms-2/files-2.1/7319106a5df3da986fa31e366493f340/firebase-datatransport-17.0.3/AndroidManifest.xml:28:13-30:85
 126                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
@@ -258,39 +258,39 @@
 147            android:exported="false" >
 147-->[com.google.firebase:firebase-messaging:20.1.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/4fe2b64c725c19eac4f99459e216a1a0/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:30:13-37
 148            <intent-filter android:priority="-500" >
-148-->[:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:29
+148-->[:firebase_messaging] /home/loser97/Desktop/markboot-git/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:29
 149                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-149-->[:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:10:17-78
-149-->[:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:10:25-75
+149-->[:firebase_messaging] /home/loser97/Desktop/markboot-git/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:10:17-78
+149-->[:firebase_messaging] /home/loser97/Desktop/markboot-git/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:10:25-75
 150            </intent-filter>
 151        </service>
 152
 153        <provider
-153-->[:image_picker] /home/loser97/Desktop/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:11:9-19:20
+153-->[:image_picker] /home/loser97/Desktop/markboot-git/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:11:9-19:20
 154            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-154-->[:image_picker] /home/loser97/Desktop/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:12:13-82
+154-->[:image_picker] /home/loser97/Desktop/markboot-git/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:12:13-82
 155            android:authorities="com.app.markbootapp.flutter.image_provider"
-155-->[:image_picker] /home/loser97/Desktop/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:13:13-74
+155-->[:image_picker] /home/loser97/Desktop/markboot-git/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:13:13-74
 156            android:exported="false"
-156-->[:image_picker] /home/loser97/Desktop/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:14:13-37
+156-->[:image_picker] /home/loser97/Desktop/markboot-git/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:14:13-37
 157            android:grantUriPermissions="true" >
-157-->[:image_picker] /home/loser97/Desktop/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:15:13-47
+157-->[:image_picker] /home/loser97/Desktop/markboot-git/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:15:13-47
 158            <meta-data
-158-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:65:13-67:57
+158-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:65:13-67:57
 159                android:name="android.support.FILE_PROVIDER_PATHS"
-159-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:66:17-67
+159-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:66:17-67
 160                android:resource="@xml/flutter_image_picker_file_paths" />
-160-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:67:17-55
+160-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:67:17-55
 161        </provider>
 162
 163        <activity
-163-->[:url_launcher] /home/loser97/Desktop/markboot/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:8:9-11:74
+163-->[:url_launcher] /home/loser97/Desktop/markboot-git/markboot/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:8:9-11:74
 164            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
-164-->[:url_launcher] /home/loser97/Desktop/markboot/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:9:13-74
+164-->[:url_launcher] /home/loser97/Desktop/markboot-git/markboot/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:9:13-74
 165            android:exported="false"
-165-->[:url_launcher] /home/loser97/Desktop/markboot/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:10:13-37
+165-->[:url_launcher] /home/loser97/Desktop/markboot-git/markboot/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:10:13-37
 166            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-166-->[:url_launcher] /home/loser97/Desktop/markboot/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:11:13-71
+166-->[:url_launcher] /home/loser97/Desktop/markboot-git/markboot/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:11:13-71
 167
 168        <receiver
 168-->[com.google.firebase:firebase-iid:20.0.2] /home/loser97/.gradle/caches/transforms-2/files-2.1/38ba2b5dff168c4a8c05e667354d048d/firebase-iid-20.0.2/AndroidManifest.xml:37:9-44:20
@@ -496,8 +496,8 @@
 273            <intent-filter>
 273-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:114:13-118:29
 274                <action android:name="android.intent.action.BOOT_COMPLETED" />
-274-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:72:17-78
-274-->/home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:72:25-76
+274-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:72:17-78
+274-->/home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:72:25-76
 275                <action android:name="android.intent.action.TIME_SET" />
 275-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:116:17-73
 275-->[androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:116:25-70

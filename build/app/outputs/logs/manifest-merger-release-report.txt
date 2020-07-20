@@ -1,38 +1,38 @@
 -- Merging decision tree log ---
 provider#vn.hunghd.flutterdownloader.DownloadedFileProvider
-INJECTED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:60:9-68:20
+INJECTED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:60:9-68:20
 	android:grantUriPermissions
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:64:13-47
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:64:13-47
 	android:authorities
-		INJECTED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:62:13-79
+		INJECTED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:62:13-79
 	android:exported
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:63:13-37
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:63:13-37
 	android:name
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:61:13-78
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:61:13-78
 manifest
-ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:1:1-78:12
-INJECTED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:1:1-78:12
-INJECTED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:1:1-78:12
-INJECTED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:1:1-78:12
-MERGED from [:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:2:1-20:12
+ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:1:1-78:12
+INJECTED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:1:1-78:12
+INJECTED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:1:1-78:12
+INJECTED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:1:1-78:12
+MERGED from [:firebase_messaging] /home/loser97/Desktop/markboot-git/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:2:1-20:12
 MERGED from [com.google.firebase:firebase-messaging:20.1.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/4fe2b64c725c19eac4f99459e216a1a0/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:17:1-44:12
-MERGED from [:file_picker] /home/loser97/Desktop/markboot/build/file_picker/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
-MERGED from [:image_picker] /home/loser97/Desktop/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:2:1-22:12
-MERGED from [:flutter_plugin_android_lifecycle] /home/loser97/Desktop/markboot/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
-MERGED from [:cloud_firestore] /home/loser97/Desktop/markboot/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:2:1-15:12
-MERGED from [:flutter_local_notifications] /home/loser97/Desktop/markboot/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
-MERGED from [:firebase_auth] /home/loser97/Desktop/markboot/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:2:1-15:12
-MERGED from [:flutter_downloader] /home/loser97/Desktop/markboot/build/flutter_downloader/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
-MERGED from [:firebase_storage] /home/loser97/Desktop/markboot/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:2:1-15:12
-MERGED from [:permission_handler] /home/loser97/Desktop/markboot/build/permission_handler/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
-MERGED from [:shared_preferences] /home/loser97/Desktop/markboot/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
-MERGED from [:firebase_core] /home/loser97/Desktop/markboot/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:2:1-15:12
-MERGED from [:e2e] /home/loser97/Desktop/markboot/build/e2e/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
-MERGED from [:share] /home/loser97/Desktop/markboot/build/share/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
-MERGED from [:fluttertoast] /home/loser97/Desktop/markboot/build/fluttertoast/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
-MERGED from [:url_launcher] /home/loser97/Desktop/markboot/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
-MERGED from [:path_provider] /home/loser97/Desktop/markboot/build/path_provider/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:file_picker] /home/loser97/Desktop/markboot-git/markboot/build/file_picker/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:image_picker] /home/loser97/Desktop/markboot-git/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:2:1-22:12
+MERGED from [:flutter_plugin_android_lifecycle] /home/loser97/Desktop/markboot-git/markboot/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:cloud_firestore] /home/loser97/Desktop/markboot-git/markboot/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:2:1-15:12
+MERGED from [:flutter_local_notifications] /home/loser97/Desktop/markboot-git/markboot/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_auth] /home/loser97/Desktop/markboot-git/markboot/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:2:1-15:12
+MERGED from [:flutter_downloader] /home/loser97/Desktop/markboot-git/markboot/build/flutter_downloader/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_storage] /home/loser97/Desktop/markboot-git/markboot/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:2:1-15:12
+MERGED from [:permission_handler] /home/loser97/Desktop/markboot-git/markboot/build/permission_handler/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences] /home/loser97/Desktop/markboot-git/markboot/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_core] /home/loser97/Desktop/markboot-git/markboot/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:2:1-15:12
+MERGED from [:e2e] /home/loser97/Desktop/markboot-git/markboot/build/e2e/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:share] /home/loser97/Desktop/markboot-git/markboot/build/share/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:fluttertoast] /home/loser97/Desktop/markboot-git/markboot/build/fluttertoast/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher] /home/loser97/Desktop/markboot-git/markboot/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:path_provider] /home/loser97/Desktop/markboot-git/markboot/build/path_provider/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /home/loser97/.gradle/caches/transforms-2/files-2.1/7319106a5df3da986fa31e366493f340/firebase-datatransport-17.0.3/AndroidManifest.xml:15:1-34:12
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/loser97/.gradle/caches/transforms-2/files-2.1/38ba2b5dff168c4a8c05e667354d048d/firebase-iid-20.0.2/AndroidManifest.xml:17:1-47:12
 MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/ff01d35d1f4900b0fc68ffe170b89686/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:2:1-26:12
@@ -83,27 +83,27 @@ MERGED from [io.grpc:grpc-android:1.21.0] /home/loser97/.gradle/caches/transform
 MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/0807f41e2ed5fdd312d949ab5495f227/firebase-database-collection-17.0.0/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/de4b70a0c239f32673f74463f076ae89/protolite-well-known-types-17.0.0/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/3fbb6caa6137ce1b2617be536d98fe7f/espresso-idling-resource-3.2.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:1:1-78:12
-INJECTED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:1:1-78:12
-INJECTED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:1:1-78:12
+INJECTED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:1:1-78:12
+INJECTED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:1:1-78:12
+INJECTED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:1:1-78:12
 	package
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:3:5-34
-		INJECTED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:1:1-78:12
-		INJECTED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:1:1-78:12
+		INJECTED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:2:5-51
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:2:5-51
 	android:versionCode
-		INJECTED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:1:1-78:12
-		INJECTED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:1:1-78:12
+		INJECTED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:10:5-66
+ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:10:5-66
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/loser97/.gradle/caches/transforms-2/files-2.1/38ba2b5dff168c4a8c05e667354d048d/firebase-iid-20.0.2/AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/loser97/.gradle/caches/transforms-2/files-2.1/38ba2b5dff168c4a8c05e667354d048d/firebase-iid-20.0.2/AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/ff01d35d1f4900b0fc68ffe170b89686/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:14:5-67
@@ -113,49 +113,49 @@ MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/loser97/.gradle/
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/3ba8d39a44a73c41c2b385e061a942bc/transport-backend-cct-2.2.0/AndroidManifest.xml:26:5-67
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/3ba8d39a44a73c41c2b385e061a942bc/transport-backend-cct-2.2.0/AndroidManifest.xml:26:5-67
 	android:name
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:10:22-64
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:10:22-64
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:11:5-79
-MERGED from [:file_picker] /home/loser97/Desktop/markboot/build/file_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:5-80
-MERGED from [:file_picker] /home/loser97/Desktop/markboot/build/file_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:5-80
-MERGED from [:image_picker] /home/loser97/Desktop/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:5-80
-MERGED from [:image_picker] /home/loser97/Desktop/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:5-80
+ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:11:5-79
+MERGED from [:file_picker] /home/loser97/Desktop/markboot-git/markboot/build/file_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:5-80
+MERGED from [:file_picker] /home/loser97/Desktop/markboot-git/markboot/build/file_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:5-80
+MERGED from [:image_picker] /home/loser97/Desktop/markboot-git/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:5-80
+MERGED from [:image_picker] /home/loser97/Desktop/markboot-git/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:5-80
 	android:name
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:11:22-77
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:11:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:12:5-80
-MERGED from [:image_picker] /home/loser97/Desktop/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:8:5-81
-MERGED from [:image_picker] /home/loser97/Desktop/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:8:5-81
+ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:12:5-80
+MERGED from [:image_picker] /home/loser97/Desktop/markboot-git/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:8:5-81
+MERGED from [:image_picker] /home/loser97/Desktop/markboot-git/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:8:5-81
 	android:name
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:12:22-78
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:12:22-78
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:13:5-80
+ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:13:5-80
 MERGED from [androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:27:5-81
 MERGED from [androidx.work:work-runtime:2.3.4] /home/loser97/.gradle/caches/transforms-2/files-2.1/b80789f2abd93442c18522d5715df956/work-runtime-2.3.4/AndroidManifest.xml:27:5-81
 	android:name
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:13:22-78
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:13:22-78
 uses-permission#android.permission.VIBRATE
-ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:14:5-66
+ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:14:5-66
 	android:name
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:14:22-63
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:14:22-63
 application
-ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:16:5-77:19
-MERGED from [:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:7:5-18:19
-MERGED from [:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:7:5-18:19
+ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:16:5-77:19
+MERGED from [:firebase_messaging] /home/loser97/Desktop/markboot-git/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:7:5-18:19
+MERGED from [:firebase_messaging] /home/loser97/Desktop/markboot-git/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:7:5-18:19
 MERGED from [com.google.firebase:firebase-messaging:20.1.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/4fe2b64c725c19eac4f99459e216a1a0/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:22:5-42:19
 MERGED from [com.google.firebase:firebase-messaging:20.1.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/4fe2b64c725c19eac4f99459e216a1a0/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:22:5-42:19
-MERGED from [:image_picker] /home/loser97/Desktop/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:10:5-20:19
-MERGED from [:image_picker] /home/loser97/Desktop/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:10:5-20:19
-MERGED from [:cloud_firestore] /home/loser97/Desktop/markboot/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
-MERGED from [:cloud_firestore] /home/loser97/Desktop/markboot/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_auth] /home/loser97/Desktop/markboot/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_auth] /home/loser97/Desktop/markboot/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_storage] /home/loser97/Desktop/markboot/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_storage] /home/loser97/Desktop/markboot/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_core] /home/loser97/Desktop/markboot/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_core] /home/loser97/Desktop/markboot/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
-MERGED from [:url_launcher] /home/loser97/Desktop/markboot/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
-MERGED from [:url_launcher] /home/loser97/Desktop/markboot/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
+MERGED from [:image_picker] /home/loser97/Desktop/markboot-git/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] /home/loser97/Desktop/markboot-git/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:10:5-20:19
+MERGED from [:cloud_firestore] /home/loser97/Desktop/markboot-git/markboot/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] /home/loser97/Desktop/markboot-git/markboot/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] /home/loser97/Desktop/markboot-git/markboot/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] /home/loser97/Desktop/markboot-git/markboot/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_storage] /home/loser97/Desktop/markboot-git/markboot/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_storage] /home/loser97/Desktop/markboot-git/markboot/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /home/loser97/Desktop/markboot-git/markboot/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /home/loser97/Desktop/markboot-git/markboot/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
+MERGED from [:url_launcher] /home/loser97/Desktop/markboot-git/markboot/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] /home/loser97/Desktop/markboot-git/markboot/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
 MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /home/loser97/.gradle/caches/transforms-2/files-2.1/7319106a5df3da986fa31e366493f340/firebase-datatransport-17.0.3/AndroidManifest.xml:24:5-32:19
 MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /home/loser97/.gradle/caches/transforms-2/files-2.1/7319106a5df3da986fa31e366493f340/firebase-datatransport-17.0.3/AndroidManifest.xml:24:5-32:19
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/loser97/.gradle/caches/transforms-2/files-2.1/38ba2b5dff168c4a8c05e667354d048d/firebase-iid-20.0.2/AndroidManifest.xml:28:5-45:19
@@ -197,121 +197,121 @@ MERGED from [androidx.room:room-runtime:2.2.3] /home/loser97/.gradle/caches/tran
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.2.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/c9ab3b6ce96876b325d83698e1b97e88/core-1.2.0/AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:18:9-33
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:18:9-33
 	android:icon
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:19:9-43
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:19:9-43
 	android:name
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:17:9-57
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:17:9-57
 activity#com.app.markbootapp.MainActivity
-ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:20:9-53:20
+ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:20:9-53:20
 	android:launchMode
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:22:13-43
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:22:13-43
 	android:hardwareAccelerated
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:25:13-47
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:25:13-47
 	android:windowSoftInputMode
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:26:13-55
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:26:13-55
 	android:configChanges
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:24:13-163
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:24:13-163
 	android:theme
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:23:13-47
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:23:13-47
 	android:name
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:21:13-41
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:21:13-41
 meta-data#io.flutter.embedding.android.NormalTheme
-ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:31:13-34:17
+ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:31:13-34:17
 	android:resource
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:33:15-52
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:33:15-52
 	android:name
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:32:15-70
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:32:15-70
 meta-data#io.flutter.embedding.android.SplashScreenDrawable
-ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:40:13-43:17
+ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:40:13-43:17
 	android:resource
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:42:15-61
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:42:15-61
 	android:name
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:41:15-79
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:41:15-79
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:44:13-47:29
+ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:44:13-47:29
 action#android.intent.action.MAIN
-ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:45:17-68
+ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:45:17-68
 	android:name
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:45:25-66
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:45:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:46:17-76
+ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:46:17-76
 	android:name
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:46:27-74
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:46:27-74
 intent-filter#action:name:FLUTTER_NOTIFICATION_CLICK+category:name:android.intent.category.DEFAULT
-ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:48:13-51:29
+ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:48:13-51:29
 action#FLUTTER_NOTIFICATION_CLICK
-ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:49:17-69
+ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:49:17-69
 	android:name
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:49:25-66
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:49:25-66
 category#android.intent.category.DEFAULT
-ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:50:17-76
+ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:50:17-76
 	android:name
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:50:27-73
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:50:27-73
 meta-data#flutterEmbedding
-ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:56:9-58:33
+ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:56:9-58:33
 	android:value
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:58:13-30
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:58:13-30
 	android:name
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:57:13-44
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:57:13-44
 receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver
-ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:70:9-75:20
+ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:70:9-75:20
 	android:name
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:70:19-107
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:70:19-107
 intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED
-ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:71:13-74:29
+ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:71:13-74:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:72:17-78
+ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:72:17-78
 	android:name
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:72:25-76
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:72:25-76
 action#android.intent.action.MY_PACKAGE_REPLACED
-ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:73:17-83
+ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:73:17-83
 	android:name
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:73:25-81
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:73:25-81
 receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver
-ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:76:9-106
+ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:76:9-106
 	android:name
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:76:19-103
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:76:19-103
 uses-sdk
-INJECTED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml
-INJECTED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml
-MERGED from [:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+INJECTED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml
+MERGED from [:firebase_messaging] /home/loser97/Desktop/markboot-git/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] /home/loser97/Desktop/markboot-git/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-messaging:20.1.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/4fe2b64c725c19eac4f99459e216a1a0/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-messaging:20.1.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/4fe2b64c725c19eac4f99459e216a1a0/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:20:5-44
-MERGED from [:file_picker] /home/loser97/Desktop/markboot/build/file_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:file_picker] /home/loser97/Desktop/markboot/build/file_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:image_picker] /home/loser97/Desktop/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:image_picker] /home/loser97/Desktop/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:flutter_plugin_android_lifecycle] /home/loser97/Desktop/markboot/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:flutter_plugin_android_lifecycle] /home/loser97/Desktop/markboot/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:cloud_firestore] /home/loser97/Desktop/markboot/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:cloud_firestore] /home/loser97/Desktop/markboot/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:flutter_local_notifications] /home/loser97/Desktop/markboot/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:flutter_local_notifications] /home/loser97/Desktop/markboot/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_auth] /home/loser97/Desktop/markboot/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_auth] /home/loser97/Desktop/markboot/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:flutter_downloader] /home/loser97/Desktop/markboot/build/flutter_downloader/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:flutter_downloader] /home/loser97/Desktop/markboot/build/flutter_downloader/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_storage] /home/loser97/Desktop/markboot/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_storage] /home/loser97/Desktop/markboot/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:permission_handler] /home/loser97/Desktop/markboot/build/permission_handler/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:permission_handler] /home/loser97/Desktop/markboot/build/permission_handler/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences] /home/loser97/Desktop/markboot/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences] /home/loser97/Desktop/markboot/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_core] /home/loser97/Desktop/markboot/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_core] /home/loser97/Desktop/markboot/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:e2e] /home/loser97/Desktop/markboot/build/e2e/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:e2e] /home/loser97/Desktop/markboot/build/e2e/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:share] /home/loser97/Desktop/markboot/build/share/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:share] /home/loser97/Desktop/markboot/build/share/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:fluttertoast] /home/loser97/Desktop/markboot/build/fluttertoast/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:fluttertoast] /home/loser97/Desktop/markboot/build/fluttertoast/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:url_launcher] /home/loser97/Desktop/markboot/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:url_launcher] /home/loser97/Desktop/markboot/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:path_provider] /home/loser97/Desktop/markboot/build/path_provider/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:path_provider] /home/loser97/Desktop/markboot/build/path_provider/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:file_picker] /home/loser97/Desktop/markboot-git/markboot/build/file_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:file_picker] /home/loser97/Desktop/markboot-git/markboot/build/file_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /home/loser97/Desktop/markboot-git/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /home/loser97/Desktop/markboot-git/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /home/loser97/Desktop/markboot-git/markboot/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /home/loser97/Desktop/markboot-git/markboot/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /home/loser97/Desktop/markboot-git/markboot/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /home/loser97/Desktop/markboot-git/markboot/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] /home/loser97/Desktop/markboot-git/markboot/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] /home/loser97/Desktop/markboot-git/markboot/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /home/loser97/Desktop/markboot-git/markboot/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /home/loser97/Desktop/markboot-git/markboot/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_downloader] /home/loser97/Desktop/markboot-git/markboot/build/flutter_downloader/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_downloader] /home/loser97/Desktop/markboot-git/markboot/build/flutter_downloader/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] /home/loser97/Desktop/markboot-git/markboot/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] /home/loser97/Desktop/markboot-git/markboot/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] /home/loser97/Desktop/markboot-git/markboot/build/permission_handler/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] /home/loser97/Desktop/markboot-git/markboot/build/permission_handler/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /home/loser97/Desktop/markboot-git/markboot/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /home/loser97/Desktop/markboot-git/markboot/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /home/loser97/Desktop/markboot-git/markboot/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /home/loser97/Desktop/markboot-git/markboot/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:e2e] /home/loser97/Desktop/markboot-git/markboot/build/e2e/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:e2e] /home/loser97/Desktop/markboot-git/markboot/build/e2e/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:share] /home/loser97/Desktop/markboot-git/markboot/build/share/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:share] /home/loser97/Desktop/markboot-git/markboot/build/share/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] /home/loser97/Desktop/markboot-git/markboot/build/fluttertoast/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] /home/loser97/Desktop/markboot-git/markboot/build/fluttertoast/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /home/loser97/Desktop/markboot-git/markboot/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /home/loser97/Desktop/markboot-git/markboot/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /home/loser97/Desktop/markboot-git/markboot/build/path_provider/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /home/loser97/Desktop/markboot-git/markboot/build/path_provider/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /home/loser97/.gradle/caches/transforms-2/files-2.1/7319106a5df3da986fa31e366493f340/firebase-datatransport-17.0.3/AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /home/loser97/.gradle/caches/transforms-2/files-2.1/7319106a5df3da986fa31e366493f340/firebase-datatransport-17.0.3/AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/loser97/.gradle/caches/transforms-2/files-2.1/38ba2b5dff168c4a8c05e667354d048d/firebase-iid-20.0.2/AndroidManifest.xml:20:5-44
@@ -412,44 +412,44 @@ MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /home/loser9
 MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/de4b70a0c239f32673f74463f076ae89/protolite-well-known-types-17.0.0/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/3fbb6caa6137ce1b2617be536d98fe7f/espresso-idling-resource-3.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/3fbb6caa6137ce1b2617be536d98fe7f/espresso-idling-resource-3.2.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml
-INJECTED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:65:13-67:57
+ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:65:13-67:57
 	android:resource
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:67:17-55
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:67:17-55
 	android:name
-		ADDED from /home/loser97/Desktop/markboot/android/app/src/main/AndroidManifest.xml:66:17-67
+		ADDED from /home/loser97/Desktop/markboot-git/markboot/android/app/src/main/AndroidManifest.xml:66:17-67
 service#io.flutter.plugins.firebasemessaging.FlutterFirebaseMessagingService
-ADDED from [:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
+ADDED from [:firebase_messaging] /home/loser97/Desktop/markboot-git/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
 	android:name
-		ADDED from [:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:8:18-101
+		ADDED from [:firebase_messaging] /home/loser97/Desktop/markboot-git/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:8:18-101
 intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from [:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:29
+ADDED from [:firebase_messaging] /home/loser97/Desktop/markboot-git/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:29
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from [:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:10:17-78
+ADDED from [:firebase_messaging] /home/loser97/Desktop/markboot-git/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:10:17-78
 	android:name
-		ADDED from [:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:10:25-75
+		ADDED from [:firebase_messaging] /home/loser97/Desktop/markboot-git/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:10:25-75
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:13:9-17:19
+ADDED from [:firebase_messaging] /home/loser97/Desktop/markboot-git/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:13:9-17:19
 MERGED from [com.google.firebase:firebase-messaging:20.1.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/4fe2b64c725c19eac4f99459e216a1a0/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:35:9-41:19
 MERGED from [com.google.firebase:firebase-messaging:20.1.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/4fe2b64c725c19eac4f99459e216a1a0/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:35:9-41:19
-MERGED from [:cloud_firestore] /home/loser97/Desktop/markboot/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
-MERGED from [:cloud_firestore] /home/loser97/Desktop/markboot/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_auth] /home/loser97/Desktop/markboot/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_auth] /home/loser97/Desktop/markboot/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_storage] /home/loser97/Desktop/markboot/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_storage] /home/loser97/Desktop/markboot/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_core] /home/loser97/Desktop/markboot/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_core] /home/loser97/Desktop/markboot/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] /home/loser97/Desktop/markboot-git/markboot/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] /home/loser97/Desktop/markboot-git/markboot/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] /home/loser97/Desktop/markboot-git/markboot/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] /home/loser97/Desktop/markboot-git/markboot/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_storage] /home/loser97/Desktop/markboot-git/markboot/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_storage] /home/loser97/Desktop/markboot-git/markboot/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /home/loser97/Desktop/markboot-git/markboot/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /home/loser97/Desktop/markboot-git/markboot/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
 MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /home/loser97/.gradle/caches/transforms-2/files-2.1/7319106a5df3da986fa31e366493f340/firebase-datatransport-17.0.3/AndroidManifest.xml:25:9-31:19
 MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /home/loser97/.gradle/caches/transforms-2/files-2.1/7319106a5df3da986fa31e366493f340/firebase-datatransport-17.0.3/AndroidManifest.xml:25:9-31:19
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/loser97/.gradle/caches/transforms-2/files-2.1/38ba2b5dff168c4a8c05e667354d048d/firebase-iid-20.0.2/AndroidManifest.xml:29:9-35:19
@@ -469,13 +469,13 @@ MERGED from [com.google.firebase:firebase-common:19.3.0] /home/loser97/.gradle/c
 	android:directBootAware
 		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/9238bdaeeba4d987036bd3c76c923f7e/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
 	android:name
-		ADDED from [:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:13:18-89
+		ADDED from [:firebase_messaging] /home/loser97/Desktop/markboot-git/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:13:18-89
 meta-data#com.google.firebase.components:io.flutter.plugins.firebasemessaging.FlutterFirebaseAppRegistrar
-ADDED from [:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:14:13-16:85
+ADDED from [:firebase_messaging] /home/loser97/Desktop/markboot-git/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:14:13-16:85
 	android:value
-		ADDED from [:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:16:17-82
+		ADDED from [:firebase_messaging] /home/loser97/Desktop/markboot-git/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:16:17-82
 	android:name
-		ADDED from [:firebase_messaging] /home/loser97/Desktop/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:15:17-127
+		ADDED from [:firebase_messaging] /home/loser97/Desktop/markboot-git/markboot/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:15:17-127
 service#com.google.firebase.messaging.FirebaseMessagingService
 ADDED from [com.google.firebase:firebase-messaging:20.1.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/4fe2b64c725c19eac4f99459e216a1a0/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:28:9-34:19
 	android:exported
@@ -489,47 +489,47 @@ ADDED from [com.google.firebase:firebase-messaging:20.1.0] /home/loser97/.gradle
 	android:name
 		ADDED from [com.google.firebase:firebase-messaging:20.1.0] /home/loser97/.gradle/caches/transforms-2/files-2.1/4fe2b64c725c19eac4f99459e216a1a0/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:39:17-119
 provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
-ADDED from [:image_picker] /home/loser97/Desktop/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:11:9-19:20
+ADDED from [:image_picker] /home/loser97/Desktop/markboot-git/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:11:9-19:20
 	android:grantUriPermissions
-		ADDED from [:image_picker] /home/loser97/Desktop/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:15:13-47
+		ADDED from [:image_picker] /home/loser97/Desktop/markboot-git/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:15:13-47
 	android:authorities
-		ADDED from [:image_picker] /home/loser97/Desktop/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:13:13-74
+		ADDED from [:image_picker] /home/loser97/Desktop/markboot-git/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:13:13-74
 	android:exported
-		ADDED from [:image_picker] /home/loser97/Desktop/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:14:13-37
+		ADDED from [:image_picker] /home/loser97/Desktop/markboot-git/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:14:13-37
 	android:name
-		ADDED from [:image_picker] /home/loser97/Desktop/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:12:13-82
+		ADDED from [:image_picker] /home/loser97/Desktop/markboot-git/markboot/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:12:13-82
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar
-ADDED from [:cloud_firestore] /home/loser97/Desktop/markboot/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:85
+ADDED from [:cloud_firestore] /home/loser97/Desktop/markboot-git/markboot/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:cloud_firestore] /home/loser97/Desktop/markboot/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:11:17-82
+		ADDED from [:cloud_firestore] /home/loser97/Desktop/markboot-git/markboot/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:cloud_firestore] /home/loser97/Desktop/markboot/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:10:17-133
+		ADDED from [:cloud_firestore] /home/loser97/Desktop/markboot-git/markboot/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:10:17-133
 meta-data#com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar
-ADDED from [:firebase_auth] /home/loser97/Desktop/markboot/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:85
+ADDED from [:firebase_auth] /home/loser97/Desktop/markboot-git/markboot/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:firebase_auth] /home/loser97/Desktop/markboot/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:11:17-82
+		ADDED from [:firebase_auth] /home/loser97/Desktop/markboot-git/markboot/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:firebase_auth] /home/loser97/Desktop/markboot/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:10:17-122
+		ADDED from [:firebase_auth] /home/loser97/Desktop/markboot-git/markboot/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:10:17-122
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar
-ADDED from [:firebase_storage] /home/loser97/Desktop/markboot/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:85
+ADDED from [:firebase_storage] /home/loser97/Desktop/markboot-git/markboot/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:firebase_storage] /home/loser97/Desktop/markboot/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:11:17-82
+		ADDED from [:firebase_storage] /home/loser97/Desktop/markboot-git/markboot/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:firebase_storage] /home/loser97/Desktop/markboot/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:10:17-126
+		ADDED from [:firebase_storage] /home/loser97/Desktop/markboot-git/markboot/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:10:17-126
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar
-ADDED from [:firebase_core] /home/loser97/Desktop/markboot/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:85
+ADDED from [:firebase_core] /home/loser97/Desktop/markboot-git/markboot/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:firebase_core] /home/loser97/Desktop/markboot/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:11:17-82
+		ADDED from [:firebase_core] /home/loser97/Desktop/markboot-git/markboot/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:firebase_core] /home/loser97/Desktop/markboot/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:10:17-123
+		ADDED from [:firebase_core] /home/loser97/Desktop/markboot-git/markboot/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:10:17-123
 activity#io.flutter.plugins.urllauncher.WebViewActivity
-ADDED from [:url_launcher] /home/loser97/Desktop/markboot/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:8:9-11:74
+ADDED from [:url_launcher] /home/loser97/Desktop/markboot-git/markboot/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:8:9-11:74
 	android:exported
-		ADDED from [:url_launcher] /home/loser97/Desktop/markboot/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:10:13-37
+		ADDED from [:url_launcher] /home/loser97/Desktop/markboot-git/markboot/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:10:13-37
 	android:theme
-		ADDED from [:url_launcher] /home/loser97/Desktop/markboot/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:11:13-71
+		ADDED from [:url_launcher] /home/loser97/Desktop/markboot-git/markboot/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:11:13-71
 	android:name
-		ADDED from [:url_launcher] /home/loser97/Desktop/markboot/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:9:13-74
+		ADDED from [:url_launcher] /home/loser97/Desktop/markboot-git/markboot/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:9:13-74
 meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
 ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /home/loser97/.gradle/caches/transforms-2/files-2.1/7319106a5df3da986fa31e366493f340/firebase-datatransport-17.0.3/AndroidManifest.xml:28:13-30:85
 	android:value

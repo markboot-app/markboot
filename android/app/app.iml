@@ -19,7 +19,7 @@
         <option name="ALLOW_USER_CONFIGURATION" value="false" />
         <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
         <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
-        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/src/main/res;file://$MODULE_DIR$/../../build/app/generated/res/google-services/debug;file://$MODULE_DIR$/../../build/app/generated/res/resValues/debug" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/src/main/res" />
         <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="" />
         <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
       </configuration>
@@ -203,22 +203,22 @@
     <orderEntry type="library" name="Gradle: com.google.firebase:protolite-well-known-types:17.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: io.grpc:grpc-android:1.21.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.test.espresso:espresso-idling-resource:3.2.0@aar" level="project" />
-    <orderEntry type="module" module-name="e2e" />
-    <orderEntry type="module" module-name="android-flutter_plugin_android_lifecycle" />
-    <orderEntry type="module" module-name="cloud_firestore" />
-    <orderEntry type="module" module-name="flutter_local_notifications" />
-    <orderEntry type="module" module-name="file_picker" />
-    <orderEntry type="module" module-name="firebase_auth" />
-    <orderEntry type="module" module-name="android-image_picker" />
-    <orderEntry type="module" module-name="flutter_downloader" />
-    <orderEntry type="module" module-name="firebase_storage" />
-    <orderEntry type="module" module-name="permission_handler" />
-    <orderEntry type="module" module-name="android-shared_preferences" />
-    <orderEntry type="module" module-name="android-firebase_messaging" />
-    <orderEntry type="module" module-name="android-firebase_core" />
-    <orderEntry type="module" module-name="share" />
-    <orderEntry type="module" module-name="fluttertoast" />
-    <orderEntry type="module" module-name="android-url_launcher" />
-    <orderEntry type="module" module-name="path_provider" />
+    <orderEntry type="module" module-name="android-e2e" />
+    <orderEntry type="module" module-name="flutter_plugin_android_lifecycle-1.0.8-android-flutter_plugin_android_lifecycle" />
+    <orderEntry type="module" module-name="android-cloud_firestore" />
+    <orderEntry type="module" module-name="android-flutter_local_notifications" />
+    <orderEntry type="module" module-name="android-file_picker" />
+    <orderEntry type="module" module-name="android-firebase_auth" />
+    <orderEntry type="module" module-name="image_picker-0.6.7+3-android-image_picker" />
+    <orderEntry type="module" module-name="android-flutter_downloader" />
+    <orderEntry type="module" module-name="android-firebase_storage" />
+    <orderEntry type="module" module-name="android-permission_handler" />
+    <orderEntry type="module" module-name="shared_preferences-0.5.7+3-android-shared_preferences" />
+    <orderEntry type="module" module-name="firebase_messaging-6.0.16-android-firebase_messaging" />
+    <orderEntry type="module" module-name="firebase_core-0.4.5-android-firebase_core" />
+    <orderEntry type="module" module-name="android-share" />
+    <orderEntry type="module" module-name="android-fluttertoast" />
+    <orderEntry type="module" module-name="url_launcher-5.4.11-android-url_launcher" />
+    <orderEntry type="module" module-name="android-path_provider" />
   </component>
 </module>

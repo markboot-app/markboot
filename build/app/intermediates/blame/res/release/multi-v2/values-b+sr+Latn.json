@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/loser97/Desktop/markboot/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml",
+            "outputFile": "/home/loser97/Desktop/markboot-git/markboot/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml",
             "map": [
                 {
                     "source": "/home/loser97/.gradle/caches/transforms-2/files-2.1/acdc368d396eeebbf47285582a05491e/play-services-base-17.1.0/res/values-b+sr+Latn/values.xml",

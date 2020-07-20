@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/loser97/Desktop/markboot/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw/values-sw.xml",
+            "outputFile": "/home/loser97/Desktop/markboot-git/markboot/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw/values-sw.xml",
             "map": [
                 {
                     "source": "/home/loser97/.gradle/caches/transforms-2/files-2.1/f7a2d6fb78cce50761311864f8096db9/jetified-play-services-basement-17.0.0/res/values-sw/values.xml",

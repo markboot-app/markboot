@@ -474,7 +474,7 @@ class _CashbacksPageDetailsState extends State<CashbacksPageDetails>with TickerP
                             debugPrint("Pressed");
                             FocusScope.of(context).unfocus();
                             if(collegeNameCont.text.isEmpty) {
-                              Fluttertoast.showToast(msg: "Enter college name",
+                              Fluttertoast.showToast(msg: "Enter email id",
                                   backgroundColor: Colors.red,textColor: Colors.white
                               );
                               return;

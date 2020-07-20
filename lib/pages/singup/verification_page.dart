@@ -246,6 +246,9 @@ class _PhoneVerificationState extends State<PhoneVerification> {
     return PinPut(
       fieldsCount: 6,
       textStyle: TextStyle(fontSize: 25, color: Colors.black),
+      onTap: (){
+        _pinPutController.clear();
+      },
       onChanged: (value) {
         if(value.length >= 6) {
           _pinPutFocusNode.unfocus();

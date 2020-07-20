@@ -502,7 +502,7 @@ class _TasksPageDetailsState extends State<TasksPageDetails> with SingleTickerPr
 
                         },
                         decoration: InputDecoration(
-                            hintText: "College Name"
+                            hintText: "Email Id"
                         ),
                       ),
                     ),
@@ -530,7 +530,7 @@ class _TasksPageDetailsState extends State<TasksPageDetails> with SingleTickerPr
                           debugPrint("Pressed");
                           FocusScope.of(context).unfocus();
                           if(collegeNameCont.text.isEmpty) {
-                            Fluttertoast.showToast(msg: "Enter college name",
+                            Fluttertoast.showToast(msg: "Enter email id",
                             backgroundColor: Colors.red,textColor: Colors.white
                             );
                             return;
